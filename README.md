@@ -8,7 +8,7 @@ of computers (webcams, routers, servers, etc.) connected to the internet using a
 ## Basic Shodan Filters
 ### city:
 Find devices in a particular city.<br/>
-`city:"Bangalore"`
+`city:"Bilbao"`
 
 ### country:
 Find devices in a particular country.<br/>
